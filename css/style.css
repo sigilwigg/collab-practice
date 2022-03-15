@@ -1,0 +1,54 @@
+.jumbotron-jumbotron-fluid {
+    background-color: rgb(101, 151, 134);
+}
+
+
+.navbar {
+    background-color: rgb(43, 128, 128);
+    height:80px ;
+    width: auto;
+    border-radius:double 10px;
+}
+
+li {
+    display: inline-block;
+    margin-top: 0px;
+    margin-left: 10px;
+    margin-right: 10px;
+
+}
+.navbar{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+a {
+    background-color: #1481ba;
+    text-decoration: none;
+    border-radius: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: #fff;
+}
+.leftside{
+    background-color: rgb(163, 82, 82);
+    height:400px;
+    width: 50%;
+    border-radius:double 10px;
+    padding:20px;
+}
+.rightside{
+    background-color: rgb(219, 219, 38);
+    height: 400px;
+    width: 50%;
+    float: right;
+    border-radius: double 10px;
+}
+
+footer {
+    background-color: rgb(102, 63, 139);
+    height: 80px;
+    width: auto;
+    border-radius: double 10px;
+}
